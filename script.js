@@ -17,7 +17,7 @@ let resetBtn =document.querySelector("#reset")
 
 
 function handleUpload(){
-    const ApiKey = "wRpAyyJ4uTUnbK7q5HjPSE69";
+    const ApiKey = "2op1F7TNChYgbYxW5Sg1tFgz";
     const formdata = new FormData();
     formdata.append("image_file", image);
     formdata.append("size", "auto");
